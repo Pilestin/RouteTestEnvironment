@@ -19,3 +19,4 @@ her düğüm yerini bilsin,
 her araç menzilini aşmasın,
 ve enerji, hakkıyla sarf olunsun diye.
 
+...
